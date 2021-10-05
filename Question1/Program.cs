@@ -5,8 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Question3
-
-{
+    
+{/// <summary>
+/// wrong number of classes and inteface.
+/// as per instrcution:
+/// 1 interface 
+/// 3 classes
+/// </summary>
     class Program
     {
         static void Main(string[] args)
