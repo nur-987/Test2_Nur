@@ -8,6 +8,7 @@ namespace ConsoleApp1
 {
     /// <summary>
     /// QUESTION 1
+    /// 
     /// </summary>
     class Rectangle
     {
